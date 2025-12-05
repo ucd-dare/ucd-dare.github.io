@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.b56bacd2.css",
-    "main.js": "/static/js/main.d589f048.js",
+    "main.js": "/static/js/main.35f7ec97.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.8b2a6da4.chunk.js": "/static/js/990.8b2a6da4.chunk.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.78e7e54b.chunk.js": "/static/js/487.78e7e54b.chunk.js",
-    "static/media/video1.mp4": "/static/media/video1.775bab8990967b1f0062.mp4",
+    "static/media/video1.mp4": "/static/media/video1.1ab64298d7c02c9e5db8.mp4",
     "static/media/stanfordLogo.png": "/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
+    "static/media/junshan.png": "/static/media/junshan.38ef57a90e81cdc08edc.png",
     "static/media/harvardLogo.png": "/static/media/harvardLogo.542dab89bfb35b7f5c0d.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/zhezhao.jpg": "/static/media/zhezhao.df960718c964308900cc.jpg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/quoraLogo.png": "/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
     "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.f720c71652579588524a.webp",
@@ -24,7 +26,7 @@
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "static/media/placeholder-avatar.svg": "/static/media/placeholder-avatar.6c718ddb9bf7aa60dcdba70a3730374e.svg",
     "main.b56bacd2.css.map": "/static/css/main.b56bacd2.css.map",
-    "main.d589f048.js.map": "/static/js/main.d589f048.js.map",
+    "main.35f7ec97.js.map": "/static/js/main.35f7ec97.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
     "990.8b2a6da4.chunk.js.map": "/static/js/990.8b2a6da4.chunk.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
@@ -32,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.b56bacd2.css",
-    "static/js/main.d589f048.js"
+    "static/js/main.35f7ec97.js"
   ]
 }
