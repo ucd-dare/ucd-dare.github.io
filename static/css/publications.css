@@ -1,4 +1,9 @@
 /* Publication cards share the site's Montserrat typography and purple palette. */
+/* Keep the expanded navigation above the team cards directly below it. */
+.headroom-wrapper {
+  position: relative;
+  z-index: 10;
+}
 #team #pubs {
   width: 100%;
   padding: 0;
