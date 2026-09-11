@@ -4,6 +4,12 @@
   position: relative;
   z-index: 10;
 }
+.pub-header > .pub-header-title {
+  margin-bottom: 8px;
+}
+.pub-header > .pub-header-subtitle {
+  margin-top: 0;
+}
 #team #pubs {
   width: 100%;
   padding: 0;
