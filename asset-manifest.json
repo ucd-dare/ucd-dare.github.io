@@ -35,7 +35,10 @@
     "static/media/publications/vita.gif": "/static/media/publications/vita.gif",
     "static/media/publications/personalized-rewardbench.png": "/static/media/publications/personalized-rewardbench.png",
     "static/media/publications/in-ril.png": "/static/media/publications/in-ril.png",
-    "static/media/publications/cardreamer.gif": "/static/media/publications/cardreamer.gif"
+    "static/media/publications/cardreamer.gif": "/static/media/publications/cardreamer.gif",
+    "static/media/publications/duomind.mp4": "/static/media/publications/duomind.mp4",
+    "static/media/publications/agile-wam.gif": "/static/media/publications/agile-wam.gif",
+    "favicon.png": "/favicon.png"
   },
   "entrypoints": [
     "static/css/main.b56bacd2.css",
