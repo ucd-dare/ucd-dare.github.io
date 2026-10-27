@@ -18,13 +18,13 @@
 }
 #pubs .publication-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr));
   gap: 20px;
   margin-top: 24px;
 }
 #pubs .publication-card {
   display: grid;
-  grid-template-rows: 160px 1fr;
+  grid-template-rows: clamp(220px, 18vw, 280px) 1fr;
   min-width: 0;
   margin: 0;
   overflow: hidden;
@@ -102,11 +102,8 @@
 #pubs .publication-card-dark .publication-summary { color: #c7cbd4; }
 #pubs .publication-card-dark .publication-visual { background: #eae7f0; }
 #pubs .publication-card-dark:hover { border-color: #aaa5ff; }
-@media (max-width: 1000px) {
-  #pubs .publication-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-}
 @media (max-width: 700px) {
-  #pubs .publication-grid { grid-template-columns: minmax(0, 1fr); gap: 16px; }
+  #pubs .publication-grid { gap: 16px; }
   #pubs .publication-content { padding: 16px; }
 }
 @media (prefers-reduced-motion: reduce) {
